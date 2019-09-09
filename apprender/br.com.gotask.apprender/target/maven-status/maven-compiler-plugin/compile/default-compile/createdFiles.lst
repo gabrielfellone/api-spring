@@ -1,0 +1,10 @@
+br\com\gotask\apprender\api\model\Categoria.class
+br\com\gotask\apprender\api\model\Questao.class
+br\com\gotask\apprender\api\model\Usuario.class
+br\com\gotask\apprender\api\model\Recompensa.class
+br\com\gotask\apprender\api\repository\UsuarioRepository.class
+br\com\gotask\apprender\api\controller\UsuarioController.class
+br\com\gotask\apprender\api\Application.class
+br\com\gotask\apprender\api\model\Trajeto.class
+br\com\gotask\apprender\api\dao\Dao.class
+br\com\gotask\apprender\api\utility\SQLEnum.class
